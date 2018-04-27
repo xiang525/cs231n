@@ -1,0 +1,10 @@
+kfold_idx:0acc0.8
+kfold_idx:2acc0.755555555556
+kfold_idx:9acc0.797752808989
+kfold_idx:1acc0.766666666667
+kfold_idx:7acc0.8
+kfold_idx:5acc0.788888888889
+kfold_idx:6acc0.833333333333
+kfold_idx:3acc0.811111111111
+kfold_idx:4acc0.755555555556
+kfold_idx:8acc0.842696629213
